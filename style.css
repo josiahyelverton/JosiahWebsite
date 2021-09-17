@@ -6,7 +6,7 @@ h1 {
     color: #9099A2; 
 }
 
-h2, h3, h4, h5, h6{
+h2, h3, h4, h6{
     color: #6D7993; /* Accent */
 }
 
@@ -15,7 +15,7 @@ a{
 }
 
 a:hover{
-    color:#6D7993;
+    color:#104bca44;
 }
 
 
@@ -25,5 +25,16 @@ a:hover{
     margin-top:25%;
 }
 .jumbotron{
-    background-image: url("");
+    background-image: url("img/backwardshat.jpg");
+    background-repeat: no-repeat; 
+    background-size: cover;
+    height:700px; 
+}
+h5 { color: darkmagenta;
+    font-style: oblique;
+}
+
+
+table {
+    border-width: thick;
 }
